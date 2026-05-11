@@ -1,0 +1,52 @@
+{
+  "computed_at": "2026-05-11T20:40:35.017729",
+  "sample_size": 200,
+  "missing_rate": 0.0,
+  "stale_rate": 0.0,
+  "features": {
+    "user_click_rate_7d": {
+      "offline_mean": 0.138,
+      "online_mean": 0.1839,
+      "skew_pct": 0.5094,
+      "psi": 0.6237,
+      "flagged": true
+    },
+    "user_avg_watch_time_7d": {
+      "offline_mean": 151.8079,
+      "online_mean": 205.1732,
+      "skew_pct": 0.5509,
+      "psi": 1.1809,
+      "flagged": true
+    },
+    "video_ctr_24h": {
+      "offline_mean": 0.1156,
+      "online_mean": 0.1294,
+      "skew_pct": 0.4905,
+      "psi": 0.041,
+      "flagged": true
+    },
+    "creator_engagement_7d": {
+      "offline_mean": 0.2343,
+      "online_mean": 0.2333,
+      "skew_pct": 0.2744,
+      "psi": 0.0145,
+      "flagged": true
+    },
+    "user_category_affinity_30d": {
+      "offline_mean": 0.0806,
+      "online_mean": 0.0964,
+      "skew_pct": 0.7481,
+      "psi": 0.6523,
+      "flagged": true
+    },
+    "video_freshness_hours": {
+      "offline_mean": 0.0,
+      "online_mean": 0.0,
+      "skew_pct": 0.0,
+      "psi": 0.0,
+      "flagged": false
+    }
+  },
+  "n_flagged_features": 5,
+  "overall_health": "DEGRADED"
+}
