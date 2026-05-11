@@ -1,0 +1,23 @@
+{
+  "auc": 0.504,
+  "ndcg_at_10": 0.142,
+  "n_train": 4070,
+  "n_test": 1018,
+  "model": "production",
+  "features": [
+    "user_click_rate_7d",
+    "user_avg_watch_time_7d",
+    "video_ctr_24h",
+    "creator_engagement_7d",
+    "user_category_affinity_30d",
+    "video_freshness_hours"
+  ],
+  "importance": {
+    "user_click_rate_7d": 0.1723,
+    "user_avg_watch_time_7d": 0.1731,
+    "video_ctr_24h": 0.1465,
+    "creator_engagement_7d": 0.1696,
+    "user_category_affinity_30d": 0.1684,
+    "video_freshness_hours": 0.1702
+  }
+}
