@@ -1,4 +1,5 @@
 # StreamRank — Real-Time Feature Store for Recommendation Ranking
+Live Demo: https://streamrank-feature-store.vercel.app
 
 **Training-Serving Skew Detection · Low-Latency Inference · Shadow Deployment**
 
